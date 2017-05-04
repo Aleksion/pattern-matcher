@@ -3,7 +3,7 @@
   "version": "0.0.7",
   "description": "Simple pattern matching",
   "main": "build/src/index.js",
-  "types": "build/src/index.d.ts"
+  "types": "build/src/index.d.ts",
   "repository": "https://github.com/jroitgrund/pattern-matcher",
   "author": "Jonathan Roitgrund <jroitgrund@gmail.com>",
   "license": "MIT",
